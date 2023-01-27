@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meharifitih
-- 👀 I’m interested in ...Machine learning, React, AI
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...Machine learning, Python, Django, React
+- 👀 I’m interested in ...Golang, Mysql, Docker
+- 🌱 I’m currently learning ...MERN
+- 💞️ I’m looking to collaborate on ...backend project
 - 📫 How to reach me ...meharifitih@gmail.com
 
 <!---
