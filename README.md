@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meharifitih
 - 👀 I’m interested in ...Golang, Mysql, Docker
 - 🌱 I’m currently learning ...MERN
-- 💞️ I’m looking to collaborate on ...backend project
+- 💞️ I’m looking to collaborate on ...backend projects
 - 📫 How to reach me ...meharifitih@gmail.com
 
 <!---
